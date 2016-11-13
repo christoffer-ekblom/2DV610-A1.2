@@ -4,11 +4,13 @@ import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 public class Game {
 
-    public Game() {
+    private int rowSize;
 
+    public Game() {
+        rowSize = 5;
     }
 
     public int getRowLength() {
-        return 0;
+        return rowSize;
     }
 }
