@@ -13,5 +13,5 @@ Assignment 1. Part 2. XUnit testing
 ### Docs
 * [Domain model](https://www.draw.io/?state=%7B%22ids%22:%5B%220B6z8JWFl9m9cRk5BVUNWbmw2Vmc%22%5D,%22action%22:%22open%22,%22userId%22:%22104890883417214251592%22%7D#G0B6z8JWFl9m9cRk5BVUNWbmw2Vmc)
 
-[Java]: <https://www.java.com/>
+[Java]: <https://docs.oracle.com/javase/tutorial/>
 [IntelliJ]: <https://www.jetbrains.com/idea/>
